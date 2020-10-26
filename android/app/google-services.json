@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600682360657",
+    "firebase_url": "https://fir-app-54cb1.firebaseio.com",
+    "project_id": "fir-app-54cb1",
+    "storage_bucket": "fir-app-54cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600682360657:android:a26e7f2bdcc58f46bfed70",
+        "android_client_info": {
+          "package_name": "com.digisailor.five_s_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600682360657-vmn7psmgtg6k42esu2gp0n75ubkhor3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqKWhUtD_6byp8kX6C0B46CfmDSo3h-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600682360657-vmn7psmgtg6k42esu2gp0n75ubkhor3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
